@@ -1,0 +1,442 @@
+{
+    "course": {
+        "id": "139",
+        "name": "Home Row (Typing)",
+        "logo": "http://navgurukul.org/img/sqlogo.jpg",
+        "notes": null,
+        "days_to_complete": null,
+        "short_description": "Let's learn typing",
+        "type": "typing",
+        "lang_available": [
+            "en"
+        ],
+        "exercises": [
+            {
+                "id": "3471",
+                "parent_exercise_id": null,
+                "course_id": "139",
+                "name": "f and j",
+                "slug": "home-row-tg__keys_f_j",
+                "sequence_num": 0,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/home-row-tg/keys_f_j.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "\n\n## Home Row, keys f and j\n\n \n\nIn the first part of the Home Rows tutorial, we'll learn the use of keys `f` and `j`.\nPosition your left index finger on the left groove on the keyboard, and your right index finger on the right groove of the keyboard. Look away from the keyboard and feel the grooves with your fingers and try to find them by moving your fingers away.\nEnter the following text once you're comfortable with the home row keys `f` and `j` "
+                    },
+                    {
+                        "type": "practicetyping",
+                        "value": [
+                            "f",
+                            "j"
+                        ],
+                        "suggested_words": "fffjjjfjfjfjjjjfff"
+                    }
+                ]
+            },
+            {
+                "id": "3470",
+                "parent_exercise_id": null,
+                "course_id": "139",
+                "name": "space, f and j",
+                "slug": "home-row-tg__keys_space_bar_with_f_j",
+                "sequence_num": 100,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/home-row-tg/keys_space_bar_with_f_j.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "\n\n## Home Row, keys f and j with space bar;\n\n \n\nIn this part, we'll learn the use of keys `f`, `j` along with `space bar`.\nPosition your left index finger on the left groove on the keyboard, and your right index finger on the right groove of the keyboard. Look away from the keyboard and feel the grooves with your fingers and try to find them by moving your fingers away. Tip: Press `space bar` with your thumbs. "
+                    },
+                    {
+                        "type": "practicetyping",
+                        "value": [
+                            "f",
+                            "j",
+                            " "
+                        ],
+                        "suggested_words": "fj j fjfjjjf  jf j j fffj j  j"
+                    }
+                ]
+            },
+            {
+                "id": "3469",
+                "parent_exercise_id": null,
+                "course_id": "139",
+                "name": "d and k",
+                "slug": "home-row-tg__keys_d_k",
+                "sequence_num": 200,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/home-row-tg/keys_d_k.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "\n\n## Home Row, keys f and j\n\n \n\nIn the second part of the Home Rows tutorial, we'll learn the use of keys `d` and `k`.\nPosition your left index finger on the left groove on the keyboard, and your right index finger on the right groove of the keyboard. Look away from the keyboard and feel the grooves with your fingers and try to find them by moving your fingers away.\nEnter the following text with your middle fingers once you're comfortable with the home row keys `d` and `k` "
+                    },
+                    {
+                        "type": "practicetyping",
+                        "value": [
+                            "d",
+                            "k"
+                        ],
+                        "suggested_words": "dddkkkdkdkdkkkkddd"
+                    }
+                ]
+            },
+            {
+                "id": "3472",
+                "parent_exercise_id": null,
+                "course_id": "139",
+                "name": "f, j, d and k",
+                "slug": "home-row-tg__keys_f_j_d_k",
+                "sequence_num": 300,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/home-row-tg/keys_f_j_d_k.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "\n\n## Home Row, keys f, j, d and k\n\n \n\nNow, we'll practice the keys `f`, `j`, `d` and `k`.\nPosition your left index finger on the left groove on the keyboard, and your right index finger on the right groove of the keyboard. Look away from the keyboard and feel the grooves with your fingers and try to find them by moving your fingers away.\nAs an exercise, type the following text without making any mistakes. "
+                    },
+                    {
+                        "type": "practicetyping",
+                        "value": [
+                            "f",
+                            ",",
+                            "j",
+                            ",",
+                            "d",
+                            ",",
+                            "k",
+                            ",",
+                            "d",
+                            ",",
+                            " ",
+                            ",",
+                            "d",
+                            ",",
+                            "f",
+                            ",",
+                            "j",
+                            ",",
+                            "d",
+                            ",",
+                            "k",
+                            ",",
+                            " ",
+                            ",",
+                            "k",
+                            ",",
+                            "k",
+                            ",",
+                            "f",
+                            ",",
+                            "j",
+                            ",",
+                            "f",
+                            ",",
+                            "j",
+                            ",",
+                            " ",
+                            ",",
+                            "d",
+                            ",",
+                            "d",
+                            ",",
+                            "j",
+                            ",",
+                            "d",
+                            ",",
+                            "k",
+                            ",",
+                            "f",
+                            ",",
+                            "f"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "3474",
+                "parent_exercise_id": null,
+                "course_id": "139",
+                "name": "s and l",
+                "slug": "home-row-tg__keys_s_l",
+                "sequence_num": 400,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/home-row-tg/keys_s_l.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "\n\n## Home Row, keys a and ;\n\n \n\nIn the third part of the Home Rows tutorial, we'll learn the use of keys `s` and `l`.\nPosition your left index finger on the left groove on the keyboard, and your right index finger on the right groove of the keyboard. Look away from the keyboard and feel the grooves with your fingers and try to find them by moving your fingers away.\nEnter the following text with your ring fingers once you're comfortable with the home row keys `s` and `l` "
+                    },
+                    {
+                        "type": "practicetyping",
+                        "value": [
+                            "s",
+                            "l"
+                        ],
+                        "suggested_words": "ssslllslsllsllllsss"
+                    }
+                ]
+            },
+            {
+                "id": "3473",
+                "parent_exercise_id": null,
+                "course_id": "139",
+                "name": "g and h",
+                "slug": "home-row-tg__keys_g_h",
+                "sequence_num": 500,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/home-row-tg/keys_g_h.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "\n\n## Home Row, keys f and j\n\n \n\nIn the next tutorial, we'll learn the use of keys `g` and `h`.\nPosition your left index finger on the left groove on the keyboard, and your right index finger on the right groove of the keyboard. Look away from the keyboard and feel the grooves with your fingers and try to find them by moving your fingers away.\nEnter the following text by moving your index fingers towards each other but your hands fixed `g` and `h` "
+                    },
+                    {
+                        "type": "practicetyping",
+                        "value": [
+                            "g",
+                            "h"
+                        ],
+                        "suggested_words": "ggghhhghghghhhhggg"
+                    }
+                ]
+            },
+            {
+                "id": "3475",
+                "parent_exercise_id": null,
+                "course_id": "139",
+                "name": "s, l, g and h",
+                "slug": "home-row-tg__keys_s_l_g_h",
+                "sequence_num": 600,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/home-row-tg/keys_s_l_g_h.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "\n\n## Home Row, keys s, l, g and h\n\n \n\nNow, we'll learn the use of keys `s`, `l`, `g` and `h`.\nPosition your left index finger on the left groove on the keyboard, and your right index finger on the right groove of the keyboard. Look away from the keyboard and feel the grooves with your fingers and try to find them by moving your fingers away. "
+                    },
+                    {
+                        "type": "practicetyping",
+                        "value": [
+                            "s",
+                            "l",
+                            "g",
+                            "h"
+                        ],
+                        "suggested_words": "sshslgglhhlgghllgghlslghhglslgglslggllhhggllhhggllhghglshhss"
+                    }
+                ]
+            },
+            {
+                "id": "3476",
+                "parent_exercise_id": null,
+                "course_id": "139",
+                "name": "a and ;",
+                "slug": "home-row-tg__keys_a_;",
+                "sequence_num": 700,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/home-row-tg/keys_a_;.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "\n\n## Home Row, keys a and ;\n\n \n\nIn the fourth part of the Home Rows tutorial, we'll learn the use of keys `a` and `;`.\nPosition your left index finger on the left groove on the keyboard, and your right index finger on the right groove of the keyboard. Look away from the keyboard and feel the grooves with your fingers and try to find them by moving your fingers away.\nEnter the following text with your little fingers once you're comfortable with the home row keys `a` and `;` "
+                    },
+                    {
+                        "type": "practicetyping",
+                        "value": [
+                            "a",
+                            ";"
+                        ],
+                        "suggested_words": "aaa;;;a;a;;a;;;;aaa"
+                    }
+                ]
+            },
+            {
+                "id": "3477",
+                "parent_exercise_id": null,
+                "course_id": "139",
+                "name": "s, l and a",
+                "slug": "home-row-tg__keys_s_l_a_;",
+                "sequence_num": 800,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/home-row-tg/keys_s_l_a_;.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "\n\n## Home Row, keys s, l and a\n\n \n\nNow, we'll learn the use of keys `s`, `l` and `a`.\nPosition your left index finger on the left groove on the keyboard, and your right index finger on the right groove of the keyboard. Look away from the keyboard and feel the grooves with your fingers and try to find them by moving your fingers away. "
+                    },
+                    {
+                        "type": "practicetyping",
+                        "value": [
+                            "s",
+                            "l",
+                            "a"
+                        ],
+                        "suggested_words": "ssslaallaallaalslaalslaalslaallaallaallaalsss"
+                    }
+                ]
+            },
+            {
+                "id": "3480",
+                "parent_exercise_id": null,
+                "course_id": "139",
+                "name": "a, s, d, f",
+                "slug": "home-row-tg__keys_a_s_d_f",
+                "sequence_num": 900,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/home-row-tg/keys_a_s_d_f.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "\n\n## Home Row, keys a, s, d and f\n\n \n\nIn this part of the Home Rows tutorial, we'll try the combination of left hand keys only.\nPosition your left index finger on the left groove on the keyboard, and your right index finger on the right groove of the keyboard. Look away from the keyboard and feel the grooves with your fingers and try to find them by moving your fingers away.\nEnter the following text with your ring fingers once you're comfortable with the home row keys `a`, `s`, `d`, `f` "
+                    },
+                    {
+                        "type": "practicetyping",
+                        "value": [
+                            "a",
+                            "s",
+                            "d",
+                            "f"
+                        ],
+                        "suggested_words": "afdsafsdafasdafsdasfdasdafsdasdfasdasdafsdasdafffdasdafsdaffsfdffsdasdasaafdsafsdasfsdaf"
+                    }
+                ]
+            },
+            {
+                "id": "3478",
+                "parent_exercise_id": null,
+                "course_id": "139",
+                "name": "j, k, l, ;",
+                "slug": "home-row-tg__keys_j_k_l_;",
+                "sequence_num": 1000,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/home-row-tg/keys_j_k_l_;.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "\n\n## Home Row, keys j, k, l and ;\n\n \n\nIn this part of the Home Rows tutorial, we'll try the combination of right hand keys only.\nPosition your left index finger on the left groove on the keyboard, and your right index finger on the right groove of the keyboard. Look away from the keyboard and feel the grooves with your fingers and try to find them by moving your fingers away.\nEnter the following text with your ring fingers once you're comfortable with the home row keys `j`, `k`, `l`, `;` "
+                    },
+                    {
+                        "type": "practicetyping",
+                        "value": [
+                            "j",
+                            "k",
+                            "l",
+                            ";"
+                        ],
+                        "suggested_words": "jkl;jkl;jl;jkk;;jk;ljk;lk;ljk;lk;jkl;;lk;lkj;lk;lkj;lkj;lkj;lk;lk;jjjj;;lk;ljjk;ljk;l;;jlk"
+                    }
+                ]
+            },
+            {
+                "id": "3479",
+                "parent_exercise_id": null,
+                "course_id": "139",
+                "name": "a, s, g, j",
+                "slug": "home-row-tg__keys_a_s_g_j",
+                "sequence_num": 1100,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/home-row-tg/keys_a_s_g_j.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "\n\n## Home Row, keys a, s, g and j\n\n \n\nPosition your left index finger on the left groove on the keyboard, and your right index finger on the right groove of the keyboard. Look away from the keyboard and feel the grooves with your fingers and try to find them by moving your fingers away.\nEnter the following text with your ring fingers once you're comfortable with the home row keys `a`, `s`, `g`, `j` "
+                    },
+                    {
+                        "type": "practicetyping",
+                        "value": [
+                            "a",
+                            "s",
+                            "g",
+                            "j"
+                        ],
+                        "suggested_words": "asgjsagjasgjgjjajgjagsssjgjsgjagjgagjsggjasgsgjasgasgajgagasgajgjjjgasgsgsajsgasgajsgajsgasgjasgjjjagssgsasjaj"
+                    }
+                ]
+            },
+            {
+                "id": "3481",
+                "parent_exercise_id": null,
+                "course_id": "139",
+                "name": "a, s, k, l",
+                "slug": "home-row-tg__keys_a_s_k_l",
+                "sequence_num": 1200,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/home-row-tg/keys_a_s_k_l.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "\n\n## Home Row, keys a, s, k and l\n\n \n\nPosition your left index finger on the left groove on the keyboard, and your right index finger on the right groove of the keyboard. Look away from the keyboard and feel the grooves with your fingers and try to find them by moving your fingers away.\nEnter the following text with your ring fingers once you're comfortable with the home row keys `a`, `s`, `k`, `l` "
+                    },
+                    {
+                        "type": "practicetyping",
+                        "value": [
+                            "a",
+                            "s",
+                            "k",
+                            "l"
+                        ],
+                        "suggested_words": "klasalksaslaksalskalskalskalskalskassslaskalsallalsaakssklaslaksalskaslkaslakslaskalskaslaskalskaslk"
+                    }
+                ]
+            },
+            {
+                "id": "3482",
+                "parent_exercise_id": null,
+                "course_id": "139",
+                "name": "d, f, h, ;",
+                "slug": "home-row-tg__keys_d_f_h_;",
+                "sequence_num": 1300,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/home-row-tg/keys_d_f_h_;.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "\n\n## Home Row, keys d, f, h and ;\n\n \n\nPosition your left index finger on the left groove on the keyboard, and your right index finger on the right groove of the keyboard. Look away from the keyboard and feel the grooves with your fingers and try to find them by moving your fingers away.\nEnter the following text with your ring fingers once you're comfortable with the home row keys `d`, `f`, `h`, `;` "
+                    },
+                    {
+                        "type": "practicetyping",
+                        "value": [
+                            "d",
+                            "f",
+                            "h",
+                            ";"
+                        ],
+                        "suggested_words": "dfh;;;hd;hd;hddffdfdhfdhfh;dfhdf;dhfdfh;df;dhfd;fh;h;dhfd;f;;;hdfhd;fdhf;dh;;;fdfhdf;dh;hdf;;;dfd;;;fdhhhhfd;"
+                    }
+                ]
+            }
+        ]
+    }
+}
